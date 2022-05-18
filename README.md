@@ -5,7 +5,7 @@ This project used Java Swing to build the game, which supports both single-playe
 
 Related topics:
 * Java Swing
-* Maze Generator
+* Maze Generator (Randomized Kruskal's algorithm)
 * MVC Design Pattern
 
 ## How to use
